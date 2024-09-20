@@ -1,29 +1,29 @@
 #resources=[
   |definitionProperties=[
-    |version=n16
+    |version=n17
     |language=i0
     |client=i0
-    |path=$lang0000/definitionProperties/00000016.txt
+    |path=$lang0000/definitionProperties/00000017.txt
     |compression=i0
-    |size=ic4732
+    |size=ic67ae
     |hash=ib6ab339a
   ]
   |categoryFlags=[
-    |version=n5
+    |version=n6
     |language=i0
     |client=i0
-    |path=$lang0000/categoryFlags/00000005.txt
+    |path=$lang0000/categoryFlags/00000006.txt
     |compression=i0
-    |size=ia607
+    |size=ia994
     |hash=ib6ab339a
   ]
   |txtEffectIcons=[
-    |version=n24
+    |version=n25
     |language=i0
     |client=i0
-    |path=$lang0000/txtEffectIcons/00000024.txt
+    |path=$lang0000/txtEffectIcons/00000025.txt
     |compression=i0
-    |size=i22e4
+    |size=i23c4
     |hash=ib6ab339a
   ]
   |icon_ammo_construction_t0=[
@@ -217,6 +217,18 @@
   |icon_effect_weather_bad=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i48b
     |path=$lang0000/icons/effect_weather_bad/00000000.png
+  ]
+  |icon_effect_nox_teleport=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i1418
+    |path=$lang0000/icons/effect_nox_teleport/00000000.png
+  ]
+  |icon_effect_nox_repair=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i158b
+    |path=$lang0000/icons/effect_nox_repair/00000000.png
+  ]
+  |icon_effect_nox_shield=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i158e
+    |path=$lang0000/icons/effect_nox_shield/00000000.png
   ]
   |icon_item_boost_ep=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i72a3
@@ -538,9 +550,37 @@
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i70A
     |path=$lang0000/icons/effect_mine_detector/00000000.png
   ]
-  |icon_remote_controller=[
-    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i77b6
-    |path=$lang0000/icons/item_remote_controller/00000000.png
+  |icon_assault_remote_controller=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i787e
+    |path=$lang0000/icons/item_assault_remote_controller/00000000.png
+  ]
+  |icon_tactical_remote_controller=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i8000
+    |path=$lang0000/icons/item_tactical_remote_controller/00000000.png
+  ]
+  |icon_industrial_remote_controller=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7682
+    |path=$lang0000/icons/item_industrial_remote_controller/00000000.png
+  ]
+  |icon_support_remote_controller=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i7707
+    |path=$lang0000/icons/item_support_remote_controller/00000000.png
+  ]
+  |icon_nox_teleport=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5b8b
+    |path=$lang0000/icons/item_nox_teleport/00000000.png
+  ]
+  |icon_nox_repair=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i58ab
+    |path=$lang0000/icons/item_nox_repair/00000000.png
+  ]
+  |icon_nox_shield=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i5e88
+    |path=$lang0000/icons/item_nox_shield/00000000.png
+  ]
+  |icon_scorcher=[
+    |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i614e
+    |path=$lang0000/icons/item_scorcher/00000000.png
   ]
   |gfx_scarab_v2=[
     |version=n0|language=i0|client=i0|compression=i0|hash=ib6ab339a|size=i3fadad
@@ -1254,4 +1294,4 @@
     |version=n2|language=i0|client=i0|compression=i0|size=i12778
     |path=$lang0000/zoneDataCache/00000002.txt
   ]
-]#date=$2024-03-06-00-00-00#dummy=$knjkqdmkmn
+]#date=$2024-03-26-00-00-00#dummy=$knjkqdmkmn
